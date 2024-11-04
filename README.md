@@ -4,10 +4,11 @@ Este repositorio contiene las soluciones de los retos del [Halloween.dev](https:
 
 ## 2024
 
-|  #  |                         Reto                         | Dificultad |              Solución               |
-| :-: | :--------------------------------------------------: | :--------: | :---------------------------------: |
-|  1  | 🧙‍♀️ [Crea la poción perfecta](2024/reto-01/README.md) |   Fácil    | [Mostrar](2024/reto-01/solution.ts) |
-|  2  |    🧟 [Horda de zombies](2024/reto-02/README.md)     |   Fácil    | [Mostrar](2024/reto-02/solution.ts) |
+|  #  |                             Reto                              | Dificultad |              Solución               |
+| :-: | :-----------------------------------------------------------: | :--------: | :---------------------------------: |
+|  1  |     🧙‍♀️ [Crea la poción perfecta](2024/reto-01/README.md)      |   Fácil    | [Mostrar](2024/reto-01/solution.ts) |
+|  2  |         🧟 [Horda de zombies](2024/reto-02/README.md)         |   Fácil    | [Mostrar](2024/reto-02/solution.ts) |
+|  3  | 🛌 [Escapa de la pesadilla de Freddy](2024/reto-03/README.md) |   Normal   | [Mostrar](2024/reto-03/solution.ts) |
 
 ## Quickstart
 
